@@ -1,0 +1,13 @@
+C:\Users\cloja\source\repos\Back-End\Planets and Spaceships\Planets and Spaceships\bin\Debug\netcoreapp3.1\Planets and Spaceships.exe
+C:\Users\cloja\source\repos\Back-End\Planets and Spaceships\Planets and Spaceships\bin\Debug\netcoreapp3.1\Planets and Spaceships.deps.json
+C:\Users\cloja\source\repos\Back-End\Planets and Spaceships\Planets and Spaceships\bin\Debug\netcoreapp3.1\Planets and Spaceships.runtimeconfig.json
+C:\Users\cloja\source\repos\Back-End\Planets and Spaceships\Planets and Spaceships\bin\Debug\netcoreapp3.1\Planets and Spaceships.runtimeconfig.dev.json
+C:\Users\cloja\source\repos\Back-End\Planets and Spaceships\Planets and Spaceships\bin\Debug\netcoreapp3.1\Planets and Spaceships.dll
+C:\Users\cloja\source\repos\Back-End\Planets and Spaceships\Planets and Spaceships\bin\Debug\netcoreapp3.1\Planets and Spaceships.pdb
+C:\Users\cloja\source\repos\Back-End\Planets and Spaceships\Planets and Spaceships\obj\Debug\netcoreapp3.1\Planets and Spaceships.csprojAssemblyReference.cache
+C:\Users\cloja\source\repos\Back-End\Planets and Spaceships\Planets and Spaceships\obj\Debug\netcoreapp3.1\Planets and Spaceships.AssemblyInfoInputs.cache
+C:\Users\cloja\source\repos\Back-End\Planets and Spaceships\Planets and Spaceships\obj\Debug\netcoreapp3.1\Planets and Spaceships.AssemblyInfo.cs
+C:\Users\cloja\source\repos\Back-End\Planets and Spaceships\Planets and Spaceships\obj\Debug\netcoreapp3.1\Planets and Spaceships.csproj.CoreCompileInputs.cache
+C:\Users\cloja\source\repos\Back-End\Planets and Spaceships\Planets and Spaceships\obj\Debug\netcoreapp3.1\Planets and Spaceships.dll
+C:\Users\cloja\source\repos\Back-End\Planets and Spaceships\Planets and Spaceships\obj\Debug\netcoreapp3.1\Planets and Spaceships.pdb
+C:\Users\cloja\source\repos\Back-End\Planets and Spaceships\Planets and Spaceships\obj\Debug\netcoreapp3.1\Planets and Spaceships.genruntimeconfig.cache
