@@ -40,8 +40,21 @@ namespace Planets_and_Spaceships
 
             var solarSystemProbes = new Dictionary<string, List<string>>();
 
-            
 
+
+            //Family Dictionary exercise
+
+            var myFamily = new Dictionary<string, Dictionary<string, string>>();
+            myFamily.Add("brother", new Dictionary<string, string>() { { "name", "Evan" }, { "age", "25" } });
+            myFamily.Add("mom", new Dictionary<string, string>() { { "name", "Laura" }, { "age", "60" } });
+            myFamily.Add("brother2", new Dictionary<string, string>() { { "name", "Michael" }, { "age", "31" } });
+            myFamily.Add("dad", new Dictionary<string, string>() { { "name", "Steve" }, { "age", "64" } });
+
+            foreach (var item in myFamily)
+            {
+                Console.WriteLine($"{item.Value["name"]} is my {item.Key} and is {item.Value["age"]}");
+
+            }
 
         }
     }
