@@ -56,10 +56,15 @@ namespace Planets_and_Spaceships
                 {
                     if (planet == item.Key)
                     {
-                        Console.WriteLine($"{planet} : {string.Join(", " , item.Value)}");
+                        Console.WriteLine($"{planet} : {string.Join(", ", item.Value)}");
                     }
                 }
 
+            }
+
+            foreach (var item in solarSystemProbes)
+            {
+                Console.WriteLine($"{item.Key} : {string.Join(", ", item.Value)}");
             }
             
 
