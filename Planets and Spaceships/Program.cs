@@ -56,7 +56,7 @@ namespace Planets_and_Spaceships
                 {
                     if (planet == item.Key)
                     {
-                        Console.WriteLine($@"{planet} : {item.Value.ForEach(delegate(string items) { Console.WriteLine(items))}");
+                        Console.WriteLine($"{planet} : {string.Join(", " , item.Value)}");
                     }
                 }
 
